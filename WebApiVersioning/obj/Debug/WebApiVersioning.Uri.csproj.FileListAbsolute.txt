@@ -1,0 +1,3 @@
+D:\DevBackup\4. Demo\2. WebApi\WebApiVersioning\WebApiVersioning\obj\Debug\WebApiVersioning.Uri.csproj.CoreCompileInputs.cache
+D:\DevBackup\4. Demo\2. WebApi\WebApiVersioning\WebApiVersioning\obj\Debug\WebApiVersioning.dll
+D:\DevBackup\4. Demo\2. WebApi\WebApiVersioning\WebApiVersioning\obj\Debug\WebApiVersioning.pdb
